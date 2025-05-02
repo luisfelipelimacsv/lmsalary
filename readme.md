@@ -19,7 +19,7 @@ Este projeto analisa como anos de experiência e nível educacional afetam os sa
 1. **Gênero não parece influenciar significativamente os salários** nos dados analisados
 2. **Nível educacional mostra correlação com salários**, especialmente para doutorados
 3. **Anos de experiência são o fator mais importante** na determinação do salário
-4. O modelo final explica aproximadamente XX% da variação nos salários (R² = X.XX)
+4. O modelo final explica aproximadamente 71% da variação nos salários (R² = .71)
 
 ## Como Usar
 O notebook inclui uma função `prever_salario()` que estima salários com base em:
